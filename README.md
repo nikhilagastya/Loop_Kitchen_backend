@@ -1,4 +1,4 @@
-# Loop_Monitor_backend
+# Loop_Kitchen_backend
 Backend API to get a clear report of restaurant
 
 Create a virtual env
