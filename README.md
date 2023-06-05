@@ -5,6 +5,8 @@ Create a virtual env
 
 Install all the dependancies: flask Pandas Pymongo
 
+Add the CSV files in the working folder (As GitHub cant accomodate files larger than 100 MB)
+
 Start backend using flask run 
 
 Use trigger_report api call to get report id 
